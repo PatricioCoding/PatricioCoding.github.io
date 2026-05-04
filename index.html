@@ -970,14 +970,14 @@
   <!-- Redes Sociales con PNGs (debajo del texto) -->
   <div class="social-icons">
     <a href="https://t.me/algoritmoatros" target="_blank">
-      <img src="C:\Users\NAHUEL\Downloads\img\Telegram.png" alt="Telegram" class="social-img">
+      <img src="Telegram.png" alt="Telegram" class="social-img">
     </a>
     <a href="https://www.youtube.com/@PatricioCoding" target="_blank">
-      <img src="C:\Users\NAHUEL\Downloads\img\YouTube.png" alt="YouTube" class="social-img">
+      <img src="YouTube.png" alt="YouTube" class="social-img">
     </a>
     <!-- Agrega más si quieres -->
     <a href="hhttps://www.instagram.com/patriciocoding/" target="_blank">
-      <img src="C:\Users\NAHUEL\Downloads\img\Instagram.png" alt="Instagram" class="social-img">
+      <img src="Instagram.png" alt="Instagram" class="social-img">
     </a>
   </div>
 
