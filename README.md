@@ -962,7 +962,7 @@
 <div class="grid-overlay"></div>
 
 <nav>
-  <a href="#" class="nav-logo">Patricio<span>Coding</span></a>
+  <a href="#" class="nav-logo">ByPatricio<span>Coding</span></a>
   <button class="hamburger" id="hamburgerBtn" aria-label="Menú principal" aria-expanded="false">
     <span></span><span></span><span></span>
   </button>
