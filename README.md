@@ -980,7 +980,7 @@
   <div class="social-icons">
     <a href="https://t.me/algoritmoatros" target="_blank" rel="noopener noreferrer"><img src="Telegram.png" alt="Canal de Telegram de PatricioCoding" class="social-img"></a>
     <a href="https://www.youtube.com/@PatricioCoding" target="_blank" rel="noopener noreferrer"><img src="YouTube.png" alt="Canal de YouTube de PatricioCoding" class="social-img"></a>
-    <a href="https://www.instagram.com/patriciocoding/" target="_blank" rel="noopener noreferrer"><img src="Instagram.png" alt="Perfil de Instagram de PatricioCoding" class="social-img"></a>
+    <a href="https://www.instagram.com/bypatriciocoding/" target="_blank" rel="noopener noreferrer"><img src="Instagram.png" alt="Perfil de Instagram de PatricioCoding" class="social-img"></a>
   </div>
   <div class="hero-cta"><a href="#indicators" class="btn-primary">Show Indicators</a></div>
 </div>
